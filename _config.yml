@@ -27,9 +27,9 @@ baseurl: "/slade-docs" # the subpath of your site, e.g. /blog
 url: "https://sirjuddington.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/sirjuddington/SLADE"
+repo: "https://github.com/sirjuddington/slade-docs"
 github_user: "sirjuddington"
-github_repo: "SLADE"
+github_repo: "slade-docs"
 
 # Optional
 #twitter: -
